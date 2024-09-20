@@ -38,3 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Testing Atlassian Compass
 
 Pushing to bitbucket to trigger Compass to run.
+
+## Sentry Youtube Documentation
+
+https://www.youtube.com/watch?v=VhIwMuusVjE&ab_channel=MichaelGuay

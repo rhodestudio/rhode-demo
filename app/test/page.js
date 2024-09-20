@@ -1,5 +1,4 @@
 import React from "react";
-import * as Sentry from "@sentry/nextjs";
 
 function Page() {
   return (
@@ -11,4 +10,4 @@ function Page() {
   );
 }
 
-export default Sentry.withProfiler(Page);
+export default Page;
