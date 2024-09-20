@@ -1,10 +1,12 @@
 import React from "react";
+import Navigation from "../components/navigation/navigation";
+import Hero from "../components/hero/hero";
 
 function Page() {
   return (
     <div>
-      <h1>This is a test page</h1>
-      <h2>This is a test page</h2>
+      <Navigation />
+      <Hero title="This is a test page" />
       <p>lorem ipsum</p>
     </div>
   );
